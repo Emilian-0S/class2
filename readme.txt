@@ -1,1 +1,2 @@
-Shopping Mall - Open Sourced
+Shopping Mall - Open Source licensed
+
