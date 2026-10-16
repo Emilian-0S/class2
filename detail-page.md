@@ -1,0 +1,1 @@
+page with details and specifics
