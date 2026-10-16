@@ -2,3 +2,4 @@
 
 1. Upload custom designs
 2. Buy t-shirts
+3. Add-to-cart feature
